@@ -1,3 +1,5 @@
-tareq300/myscaledb:1.8.0
-docker.elastic.co/kibana/kibana:8.14.3
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+langgenius/dify-api:1.11.4
+langgenius/dify-web:1.11.4
+mysql:8.0
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.5.2-local
